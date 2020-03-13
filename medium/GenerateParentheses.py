@@ -8,7 +8,6 @@
 
 class Solution:
     def build_sol(self, nleft, nright, curr, sols, n):
-        print('Entering buildsol')
         print(curr)
         if nright > nleft or nleft > n:
             return
