@@ -1,3 +1,6 @@
+# Anders Poirel
+# 11-03-2020
+
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
         elems = dict()

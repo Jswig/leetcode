@@ -1,8 +1,10 @@
+# Anders Poirel
+# 11-03-2020
+
 class ListNode:
     def __init__(self, x):
         self.val = x
         self.next = None
-
 
 class Solution:
     def removeNthFromEnd(self, head: ListNode, n: int) -> ListNode:
@@ -20,6 +22,6 @@ class Solution:
             head = slow.next
         else:
             prev.next = slow.next
-        
+            
         return head 
             

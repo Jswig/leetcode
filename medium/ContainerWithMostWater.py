@@ -1,3 +1,6 @@
+# Anders Poirel
+# 11-03-2020
+
 class Solution:
     def maxArea(self, height: List[int]) -> int:
         max_vol = 0
