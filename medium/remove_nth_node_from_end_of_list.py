@@ -1,5 +1,5 @@
 # Anders Poirel
-# 11-03-2020
+
 
 class ListNode:
     def __init__(self, x):

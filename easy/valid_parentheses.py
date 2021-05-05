@@ -1,7 +1,7 @@
 # Anders Poirel
-# 12-03-2020
 
 # https://leetcode.com/problems/valid-parentheses
+
 # Runtime: 28 ms, faster than 71.23% of Python3 online submissions for Valid Parentheses.
 # Memory Usage: 12.8 MB, less than 100.00% of Python3 online submissions for Valid Parentheses.
 

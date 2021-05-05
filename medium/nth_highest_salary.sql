@@ -1,7 +1,7 @@
 /* Anders Poirel
- * 10-03-2020
  *
  * https://leetcode.com/problems/nth-highest-salary
+ *
  * Runtime: 304 ms, faster than 60.75% of MySQL online submissions for Nth Highest Salary.
  * Memory Usage: 0B, less than 100.00% of MySQL online submissions for Nth Highest Salary. */
 

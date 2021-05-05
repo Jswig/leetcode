@@ -1,7 +1,6 @@
 # Anders Poirel
-# 11-03-2020
-#
-# # https://leetcode.com/problems/add-two-numbers/
+
+# https://leetcode.com/problems/add-two-numbers/
 # Runtime: 76 ms, faster than 30.61% of Python3 online submissions for Add Two Numbers.
 # Memory Usage: 12.9 MB, less than 100.00% of Python3 online submissions for Add Two Numb
 
